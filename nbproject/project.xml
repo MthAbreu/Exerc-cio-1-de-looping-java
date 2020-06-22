@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+<<<<<<< HEAD
             <name>C para F Looping</name>
+=======
+            <name>Potência de 3 (while) looping</name>
+>>>>>>> e37e1f03102b70f295a6189e07c5305d82917f68
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
